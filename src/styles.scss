@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+    --main-bg-color: #dd9a1d;
+}
+
+
+html, body {
+    background-color: var(--main-bg-color);
+}
